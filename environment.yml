@@ -1,0 +1,7 @@
+name: cookie-personal
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - cookiecutter
+prefix: /home/sathony/anaconda3/envs/cookie-personal
